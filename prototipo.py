@@ -1,1 +1,1 @@
-from modulo import suma, resta
+from modulo import suma, resta, multiplicacion
